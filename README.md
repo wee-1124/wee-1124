@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wee-1124, weetheprogrammers
+- 👋 Hi, I’m @wee-1124, weetheprogrammer
 - 👀 I’m interested in programming, programming and programming.
 - 🌱 I’m currently learning to become legends.
 - 📫 How to reach me ...
